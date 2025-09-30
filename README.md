@@ -36,7 +36,7 @@ Pay rent, understand leases, submit issues, and predict rent pricing — all pow
 - **Backend:** FastAPI (Python)
 - **AI Integration:** Hugging Face Transformers (inference API or self-hosted)
 - **Database:** PostgreSQL + Redis
-- **Payments:** Stripe
+- **Payments:** mpesa
 - **Voice:** Web Speech API / Hugging Face TTS
 - **Deployment:** AWS, Vercel, Docker
 
