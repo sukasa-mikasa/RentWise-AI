@@ -7,7 +7,7 @@ Pay rent, understand leases, submit issues, and predict rent pricing — all pow
 
 ## 🚀 Features
 
-- ✅ Rent payments via Stripe
+- ✅ Rent payments via mpesa
 - 📝 Lease auto-summarization (NLP)
 - 📄 Document Q&A (e.g. lease questions)
 - 📷 AI-powered property condition reports
